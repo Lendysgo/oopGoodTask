@@ -1,10 +1,17 @@
 package ru.oop;
 
 public class Car {
+    /**
+     * Создание машины
+     */
     public Car(Person person){
-
     }
-    public void deive(Position destination) {
+
+    /**
+     *
+     * Едемм до пункта
+     */
+    public void drive(Position destination) {
 
     }
 }
